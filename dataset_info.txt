@@ -1,0 +1,24 @@
+Dataset Name:
+Indian Sign Language Dataset
+
+Total Images:
+42745
+
+Total Classes:
+35
+
+Class Labels:
+Digits: 1–9
+Alphabets: A–Z
+
+Image Size:
+224 x 224
+
+Dataset Source:
+Uploaded manually to Kaggle
+
+Notes:
+The expected class count was 36, but the dataset contained only 35 classes because the '0' folder was absent.
+
+Dataset Path used in Kaggle:
+/kaggle/input/indian-sign-language-dataset/Indian
